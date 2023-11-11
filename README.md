@@ -1,3 +1,3 @@
 
 # Hotel-data-analysis
-## Data warehousing and management course project
+## Data warehousing and Mining course project
